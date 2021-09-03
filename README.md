@@ -1,17 +1,17 @@
-## rspec-intro
+# rspec-intro
 
-# How to get started:
+## How to get started:
 
 ```
   bundle install
   bundle exec rspec
 ``` 
 
-# BBD(Behaviour Driven Development  
+## BBD(Behaviour Driven Development  
 
 * This means creating an executable specification that fails because the feature doesn't exist, then writing the simplest code that can make the spec pass. You repeat this until a release candidate is ready to ship.
 
-# TDD(Test Driven Development)
+## TDD(Test Driven Development)
 
 * This means writing a test that fails because the specified functionality doesn't exist, then writing the simplest code that can make the test pass, then refactoring to remove duplication, etc. You repeat this Red-Green-Refactor loop over and over until you have a complete feature.
 
